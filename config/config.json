@@ -1,0 +1,14 @@
+{
+  "development": {
+    "dialect": "sqlite",
+    "storage": "./notelywebapp.db"
+  },
+  "test": {
+    "dialect": "sqlite",
+    "storage": "./notelywebapp.db"
+  },
+  "production": {
+    "dialect": "sqlite",
+    "storage": "./notelywebapp.db"
+  }
+}
